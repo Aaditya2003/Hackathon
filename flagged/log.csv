@@ -1,0 +1,53 @@
+name,is_morning,temperature,hello,hi,output 0,output 1,flag,username,timestamp
+,,,,,,0,,,2023-04-15 22:37:57.115802
+Aaditya,234,35,male,cancer,headache,asthma,"glucose:250,cholesterol:235,triglycerides:150","I'm sorry to hear that the patient has cancer. Based on the limited information provided, it's not possible to determine the type and stage of cancer. However, here is the information I can provide:
+
+The top 5 most probable fatal diseases for the patient are:
+
+1. Metabolic Syndrome - that can lead to an array of serious life-threatening conditions
+2. Cardiovascular disease - which could lead to heart attack or stroke.
+3. Cancer progression - the cancer could advance and become fatal. 
+4. Kidney disease - some cancer treatments can damage the kidneys
+5. Stroke - occurs when the blood supply to the brain is interrupted or reduced.
+
+The top 5 possible allergies to medications in future for the patient are:
+
+1. Chemotherapy drugs (used to treat cancer)
+2. Antibiotics (used to treat infections)
+3. Pain medications (used to manage cancer pain)
+4. Anti-nausea medications (used to manage side-effects of cancer treatment)
+5. Nonsteroidal anti-inflammatory drugs (NSAIDs) (used to reduce inflammation and pain)
+
+The top 5 Lab tests that should be done for prevention and early diagnosis of diseases for the patient based on past problems are:
+
+1. Pulmonary function tests (to monitor asthma)
+2. Lipid profile (to monitor cholesterol and triglycerides levels)
+3. Blood glucose level monitoring (to monitor diabetes)
+4. Kidney function tests (to monitor kidney disease)
+5. Complete blood count (CBC) and tumor markers (to monitor cancer progression)
+
+The top 5 most probable illnesses with percent chance for the patient based on current symptoms and lab results are:
+
+1. Cancer progression - 60%
+2. Late-Onset Diabetes - 30%
+3. Hypertension  - 5%
+4. Stroke - 2%
+5. Asthma exacerbation - 2%
+
+The top 5 vaccines for diseases currently spreading for the patient are:
+
+1. Influenza vaccine (yearly)
+2. Pneumococcal vaccine (one-time)
+3. Tdap vaccine (every 10 years)
+4. COVID-19 vaccine (if not already vaccinated)
+5. HPV vaccine (if not already vaccinated)
+
+The top 5 cancer treatments that may be prescribed for the patient are:
+
+1. Surgery- to remove the cancerous tissue 
+2. Chemotherapy- to destroy cancer cells 
+3. Radiation therapy- to damage the DNA of the cancer cells 
+4. Immunotherapy- to boost the immune system to fight cancer cells 
+5. Targeted therapy- to target specific cancer cells 
+
+The likelihood of a patient being readmitted to the hospital after being discharged depends on several factors such as their medical history, current diagnosis, access to follow-up care, and compliance with treatment plans. Additional information is required to make an accurate prediction.",,,2023-04-16 00:03:09.901447
